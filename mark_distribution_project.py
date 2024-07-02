@@ -183,6 +183,7 @@ while True:
 
         finall=Result()
         finall.result(win_c,win_cv,win_e)
+        break
     
         
     
